@@ -1,0 +1,9 @@
+1. Framework adalah kerangka untuk mempermudah programmer dalam membangun aplikasi jadi kalau kita pakai framework penulisan code akan jauh lebih mudah dan menghemat waktu, dan juga tentunya akan rapih dan terstruktur.
+
+2. 1. Instansi Perusahaan
+
+   2. Mochamad Atilla Rahman Saleh-22416255201166 (Front-End)
+      Muhamad Jihan-22416255201143 (Back-End)
+      Muhammad Fahmi Jalaluddin-22416255201281 (Analisis Desain)
+
+   3. Perusahaan yang saya tuju untuk melakukan penelititan belum mempunyai sistem, sehingga meminta untuk tim kami membuatkan sistem untuk mereka, dan kami pun menyanggupi, hanya saja untuk saat ini tim kami fokus pada jobdesk dari kampus yaitu untuk membuat bagian helpdesk terlebih dahulu setelah itu baru kami akan melakukan pengembangan pada sistem yang sudah kita rancang.
